@@ -1,0 +1,11 @@
+Topic 5: Inventory Tracking System
+
+Create an application for the Inventory Tracking System for Equipment (Computers, Printers, ACs, etc.) in the CSE Department.
+
+Accepts Equipment details and Current Working Status, as input and each lab in charge takes care of registering the list of equipment in their lab. Also tracks the warranty details and generates the barcode that can be pasted on each equipment.
+
+Create a profile for each lab in charge, and there should be a single admin for all. Lab in charge lists the equipment in the portal and makes it available for all users after an admin approval.
+
+If any fault in the system, the user can complain online for the corresponding equipment and fault should be indicated using status.
+
+The status of the equipment should be changed only after the complaint is resolved and the lab in charge reports it to the Admin.
